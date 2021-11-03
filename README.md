@@ -344,6 +344,8 @@ forever(function () {
 Follow along to code a game where a character collects falling objects to reveal 
 one thing they are thankful for!
 
+![Title](/)
+
 ## Intro
 ✋ *Welcome! Let's take a minute to preview the project.* ✋
 
