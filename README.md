@@ -344,7 +344,7 @@ forever(function () {
 Follow along to code a game where a character collects falling objects to reveal 
 one thing they are thankful for!
 
-<img src="https://github.com/sbannonCN/thanksgiving-test2/blob/master/thanksgivingDemo.gif?raw=true" width="450">
+![Project Example](https://github.com/sbannonCN/thanksgiving-test2/blob/master/thanksgivingDemo.gif?raw=true)
 
 ## Intro
 ✋ *Welcome! Let's take a minute to preview the project.* ✋
@@ -1228,3 +1228,4 @@ When you select the **Done** button, you'll have a chance to share your project
 link with others!
 
 ---
+
