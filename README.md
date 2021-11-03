@@ -1,4 +1,4 @@
-  Open this page at [https://arcade.makecode.com/#tutorial:makecode.com/_ga2Muic4vPY6](https://arcade.makecode.com/#tutorial:makecode.com/_ga2Muic4vPY6)
+Open this page at [https://arcade.makecode.com/#tutorial:makecode.com/_ga2Muic4vPY6](https://arcade.makecode.com/#tutorial:makecode.com/_ga2Muic4vPY6)
 
 # Turkey Talks
 
@@ -337,14 +337,14 @@ forever(function () {
 ```
 
 ## 🦃 Turkey Talks @showdialog
-*Tell us what you're thankful for!*  🤗
+🤗 **Tell us what you're thankful for!**  🤗
 
 ---
 
 Follow along to code a game where a character collects falling objects to reveal 
 one thing they are thankful for!
 
-![Title](thanksgivingDemo.gif)
+<img src="https://github.com/sbannonCN/thanksgiving-test2/blob/master/thanksgivingDemo.gif?raw=true" width="450">
 
 ## Intro
 ✋ *Welcome! Let's take a minute to preview the project.* ✋
@@ -352,6 +352,8 @@ one thing they are thankful for!
 ---
 
 Click the **Game Window** tab above.
+
+![Game Window tab](https://github.com/sbannonCN/thanksgiving-test2/blob/master/gameWindow.PNG?raw=true "Don't forget to look at your game!")
 
 *You'll use this tab whenever you need to click ▶ and preview the project!*
 
@@ -515,7 +517,7 @@ Click on the **Game Window** to see these blocks in action on the game screen!
 - :mouse pointer: In the ``||text.set [textSprite] to||`` block, type 
 *"I'm thankful for..."*.  
 
-Click on the 💡 below to see what that looks like in the code blocks!
+Click on the 💡 below to see what that looks like in code blocks!
 
 ---
 
@@ -998,7 +1000,7 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Projectile, function (sprite, ot
 ---
 - :paper plane: Open the ``||sprites.Sprites||`` menu and drag a ``||sprites.destroy [mySprite]||`` 
 block into the ``||sprites.on [sprite] overlap||`` container.
-- :mouse pointer: Click and drag on the ``||sprite.[otherSprite]||`` bubble into the ``||sprite.[mySprite]||`` 
+- :mouse pointer: Click and drag the ``||sprite.[otherSprite]||`` bubble into the ``||sprite.[mySprite]||`` 
 parameter.
 
 ```blocks
@@ -1013,10 +1015,10 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Projectile, function (sprite, ot
 ---
 - :paper plane: Open the ``||sprites.Sprites||`` menu and drag a ``||sprites.[mySprite] say||`` 
 block into ``||sprites.on [sprite] overlaps||``.  
-- :mouse pointer: In the ``||sprites.on [sprite] overlap||`` container, click and drag on the ``||sprite.[sprite]||`` 
+- :mouse pointer: In the ``||sprites.on [sprite] overlap||`` container, click and drag the ``||sprite.[sprite]||`` 
 bubble to replace ``||sprite.[mySprite]||``.  
 
-Type something in the block that you're thankful for.  Click the white **+** sign 
+Type something you're thankful for into the block.  Click the white **+** sign 
 to change how long it appears on screen.
 
 ---
@@ -1226,68 +1228,3 @@ When you select the **Done** button, you'll have a chance to share your project
 link with others!
 
 ---
-
-
-> Open this page at [https://sbannoncn.github.io/thanksgiving-/](https://sbannoncn.github.io/thanksgiving-/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/sbannoncn/thanksgiving-** and import
-
-## Edit this project ![Build status badge](https://github.com/sbannoncn/thanksgiving-/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/sbannoncn/thanksgiving-** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/sbannoncn/thanksgiving-/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
-
-
-> Open this page at [https://sbannoncn.github.io/thanksgiving-test2/](https://sbannoncn.github.io/thanksgiving-test2/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/sbannoncn/thanksgiving-test2** and import
-
-## Edit this project ![Build status badge](https://github.com/sbannoncn/thanksgiving-test2/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/sbannoncn/thanksgiving-test2** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/sbannoncn/thanksgiving-test2/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
